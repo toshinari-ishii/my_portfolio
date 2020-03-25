@@ -190,6 +190,7 @@ GEM
 
 PLATFORMS
   ruby
+  unknown
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
