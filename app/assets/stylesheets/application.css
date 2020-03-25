@@ -13,7 +13,3 @@
  *= require_tree .
  *= require_self
  */
-@import "header";
-@import "myapp";
-@import "slide";
-@import "tops";
