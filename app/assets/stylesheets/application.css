@@ -1,9 +1,3 @@
-/*
- *= require_self
- *= require scaffolds.css
- *= require hoges.css
- *= require_tree .
- */
 @import "header";
 @import "myapp";
 @import "slide";
