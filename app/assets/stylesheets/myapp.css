@@ -1,3 +1,8 @@
+.main-wrapper{
+  height: 100%;
+  width: 100%;
+}
+
 .myapp{
   height: 800px;
   width: 1280px;
