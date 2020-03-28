@@ -49,6 +49,7 @@
   opacity: 0.7;
   z-index: 1;
 }
+
 .text{
   width: 300px;
   height: 90px;
@@ -76,6 +77,15 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.main-bar-box{
+  height: 80px;
+  width: 100vw;
+  background-size: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .main-bar ul{
   padding-top: 20px;
   padding-bottom: 5px;
@@ -85,6 +95,11 @@
   font-size: 40px;
   font-family: 'SignPainter';
   cursor: pointer;  
+  margin: auto 15px;
+}
+
+.main-bar li{
+  margin: auto 15px;
 }
 
  .main-bar ul :hover{

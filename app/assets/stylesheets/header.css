@@ -1,9 +1,17 @@
 .header{
   height: 90px;
-  width: 100vw;
+  width: 1280px;
   background-size: cover;
   opacity: 0.8;
+}
 
+.header-box{
+  height: 100px;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-size: cover */
 }
 
 .header h4{
@@ -21,13 +29,5 @@
   text-align: center;
 }
 
-.header-box{
-  height: 100px;
-  width: 100vw;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  background-size: cover
-}
 
 
