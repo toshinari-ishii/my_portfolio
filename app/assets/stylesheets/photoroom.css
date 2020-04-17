@@ -1,0 +1,96 @@
+.photoroom{
+  height: 800px;
+  width: 1280px;
+  background-image:url("https://nozziedesign.com/wp-content/uploads/2014/12/ccccccc.jpg");
+  background-size: 1300px 800px;
+  float: left;
+  padding: 20px 0px;
+}
+
+.photoroom_img{
+  height: 100%;
+  background: rgba(255,255,255,0.5);
+}
+
+.photoroom_header{
+  height: 100px;
+  width: 500px;
+  margin-top: 30px;
+  margin: auto;  
+}
+
+.image_box{
+  margin: auto;
+  width: 1200px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image1{
+  width: 350px;
+  height: 350px;
+  /* background-color: aliceblue; */
+  margin: 10px;
+}
+.image2{
+  width: 350px;
+  height: 350px;
+  padding-top: 10px;
+}
+.image3{
+  width: 350px;
+  height: 350px;
+  margin-right: 20px;
+  padding-top: 10px;
+}
+
+.img_titles{
+  width: 1180px;
+  height: 40px;
+  /* background-color: aquamarine; */
+}
+
+.img_titles{
+  margin-top: 350px;
+  margin-left: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image1_title{
+  margin-left: 100px;
+  font-family: 'TsukuBRdGothic-Regular';
+  font-size: 20px;
+}
+
+.image2_title{
+  margin-left: 20px;
+  font-family: 'TsukuBRdGothic-Regular';
+  font-size: 20px;
+  padding-bottom: 0px;
+}
+
+.image3_title{
+  margin-right: 140px;
+  font-family: 'TsukuBRdGothic-Regular';
+  font-size: 20px;
+}
+
+.photoroom_text{
+  height: 150px;
+  width: 600px;
+  background-color: rgba(53, 49, 49, 0.466);
+  margin: auto;
+  padding-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.photoroom_text p{
+  padding: 7px;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'TsukuBRdGothic-Regular';
+}
+

@@ -38,7 +38,7 @@
 .myapp-textbox{
   height: 270px;
   width: 600px;
-  background-color: rgba(53, 49, 49, 0.466);
+  background-color: rgba(53, 49, 49, 0.336);
   margin: auto;
   padding-bottom: 0px;
   margin-top: 10px;
@@ -53,6 +53,5 @@
   list-style: none;
   text-align: center;
   font-size: 20px;
-  font-family: 'Didot';
   font-family: 'TsukuBRdGothic-Regular';
 }
